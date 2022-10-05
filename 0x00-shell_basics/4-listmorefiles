@@ -1,7 +1,2 @@
 #!/bin/bash
-total 4                                                                                                                                         
-drwxr-xr-x 4 root root  60 Oct  5 05:29 .                                                                                                       
-drwxr-xr-x 1 root root  85 Oct  5 05:04 ..                                                                                                      
-drwxr-xr-x 2 root root 139 Oct  5 12:43 0x00-shell_basics                                                                                       
-drwxr-xr-x 8 root root 166 Oct  5 12:45 .git                                                                                                    
--rw-r--r-- 1 root root  16 Oct  5 05:29 README.md  
+ls -la .
